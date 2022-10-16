@@ -20,4 +20,3 @@ for i in range(q):
     z = int(xyz[2])
 
     result = catAndMouse(x, y, z)
-
