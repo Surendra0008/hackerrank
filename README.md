@@ -1,7 +1,7 @@
 # hackerrank
 solutions for problems on hackerrank
 # 💫 About Me:
-🌱 I’m currently learning python django :bowtie: <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The first computer program was invented by a woman, that's why it is hard to understand 😆
+🌱 I’m currently learning python django 🙇‍♂️: <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The first computer program was invented by a woman, that's why it is hard to understand 😆<br> ❤️ Loves travelling 🌏, cricket 🏏
 
 
 ## 🌐 Socials:
