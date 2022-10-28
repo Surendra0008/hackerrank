@@ -1,7 +1,7 @@
 # hackerrank
 solutions for problems on hackerrank
 # 💫 About Me:
-👦 I'm Surendra Karaka ♂️ ♒<br>🌱 I’m currently learning python django 🙇‍♂️ <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br>❤️ Loves travelling 🌏<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The first computer program was invented by a woman, that's why it is hard to understand 🤣
+👦 I'm Surendra Karaka ♂️ ♒<br>🌱 I’m currently learning python django 🙇‍♂️ <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The first computer program was invented by a woman, that's why it is hard to understand 🤣
 
 
 ## 🌐 Socials:
