@@ -1,7 +1,7 @@
 # hackerrank
 solutions for problems on hackerrank
 # 💫 About Me:
-👦 I'm Surendra Karaka ♂️ ♒<br>🌱 I’m currently learning python django 🙇‍♂️ <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br> 🔍 searching for a job as a software developer 💻<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The most common password for a computer and social media platforms is 123456 💪
+👦 I'm Surendra Karaka ♂️ ♒<br> :computer: python django, html, MYSQL, github, microsoft office tools :computer_mouse: <br>👨‍🎓 I'm graduated in BSc(computer science) in 2021 :shipit:<br> 🔍 searching for a job as a software developer 💻<br>💬 Ask me about - Don't ask me :trollface:<br>⚡ Fun fact - The most common password for a computer and social media platforms is 123456 💪
 
 
 ## 🌐 Socials:
